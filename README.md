@@ -7,14 +7,14 @@
   
 ## 画面構成
 + 個体管理画面トップ
-![flddiinefeldfppi](https://user-images.githubusercontent.com/61402011/86435738-a6f4c280-bd3b-11ea-8ec4-0a290664c6a6.png)
+![flddiinefeldfppi](https://user-images.githubusercontent.com/61402011/86435738-a6f4c280-bd3b-11ea-8ec4-0a290664c6a6.png)  
   + 各乳牛の基本情報入力・確認画面
   + 乳牛精液NO、母牛耳標識NOを入力することで系統的な遺伝的特徴の把握に繋げる。
   + 下段の各タブに、「発情」「受精」「分娩」「乳房炎」「疾病・事故」「BCS」「フェーズ」「乳量」に関する情報入力・確認欄がある。
   
 
 + 発情管理タブ
-![heat](https://user-images.githubusercontent.com/61402011/86436543-701fac00-bd3d-11ea-89f1-197be10bf441.png)
+![hatuzyou](https://user-images.githubusercontent.com/61402011/86440865-31daba80-bd46-11ea-8678-02a8c7c491d9.png)  
   + 発情関連情報の入力・確認欄
   + 分娩日より、初回発情予定日を自動計算し、本日の予定ページにて通知する。
   + 発情日を入力後、次回発情予定日を自動計算し、本日の予定ページにて通知する。
@@ -22,5 +22,5 @@
   
   
 + 授精管理タブ
-![mlbdmmnmaelnfbkl](https://user-images.githubusercontent.com/61402011/86437062-a1e54280-bd3e-11ea-97b3-e02457d14be2.png)
+
   + 
